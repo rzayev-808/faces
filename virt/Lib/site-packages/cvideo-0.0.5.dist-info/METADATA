@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: cvideo
+Version: 0.0.5
+Summary: A small wrapper around cv2 to get a video stream in a thread
+Home-page: https://github.com/balbatross/cv2-video
+Author: Ross Leitch
+Author-email: ross@end-game.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Dist: numpy
+
+UNKNOWN
+
+
